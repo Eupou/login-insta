@@ -1,5 +1,5 @@
 # login-insta
-###Clonando a tela de login do Instagram 
+### Clonando a tela de login do Instagram 
 
-###Projeto realizado  no curso da dio, clonando a interface do insta.
+### Projeto realizado  no curso da dio, clonando a interface do insta.
 
